@@ -1624,3 +1624,26 @@
 2018-11-08 21:55:35,112 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-08 21:55:35,112 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-11-08 21:55:35,112 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-08 21:55:35,114 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 21:55:35,114 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring5\eclipse-workspace\spring-boot-web-jsp\src\test\resources
+2018-11-08 22:01:45,648 [Worker-44: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Spring5\eclipse-workspace\spring-boot-web-jsp
+2018-11-08 22:01:45,660 [Worker-44: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-11-08 22:03:09,473 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:03:09,474 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-08 22:03:09,475 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-08 22:03:09,477 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:03:09,477 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring5\eclipse-workspace\spring-boot-web-jsp\src\test\resources
+2018-11-08 22:06:42,911 [Worker-40: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Spring5\eclipse-workspace\spring-boot-web-jsp
+2018-11-08 22:06:42,912 [Worker-40: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-11-08 22:06:52,774 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:06:52,775 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-08 22:06:52,776 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-08 22:06:52,778 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:06:52,778 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring5\eclipse-workspace\spring-boot-web-jsp\src\test\resources
+2018-11-08 22:08:07,731 [Worker-45: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Spring5\eclipse-workspace\spring-boot-web-jsp
+2018-11-08 22:08:07,732 [Worker-45: Launching Executing install in C__Spring5_eclipse-workspace_spring-boot-web-jsp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-11-08 22:08:17,055 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:08:17,056 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-08 22:08:17,057 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-08 22:08:17,058 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 22:08:17,059 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Spring5\eclipse-workspace\spring-boot-web-jsp\src\test\resources

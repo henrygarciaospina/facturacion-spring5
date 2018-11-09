@@ -1095,3 +1095,39 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.wst.server.discovery 1 0 2018-11-08 20:19:51.217
 !MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:08.163
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:08.164
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:08.170
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:08.171
+!MESSAGE executing callback sts4.classpath.zHxnchPj spring-boot-web-jsp false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:08.302
+!MESSAGE executing callback sts4.classpath.zHxnchPj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:10.963
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:10.963
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:10.975
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:10.975
+!MESSAGE executing callback sts4.classpath.zHxnchPj spring-boot-web-jsp false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 21:18:10.998
+!MESSAGE executing callback sts4.classpath.zHxnchPj SUCCESS [done]
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-08 21:24:06.627
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-08 21:24:06.666
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'

@@ -1,0 +1,1097 @@
+!SESSION 2018-11-05 16:24:58.942 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 16:25:37.136
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-05 16:26:13.615 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 16:26:31.546
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-05 16:35:39.970 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Spring5/eclipse-workspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-05 16:35:49.970
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-05 16:35:49.970
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@56e9126f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e773b8a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 16:35:54.390
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2018-11-05 16:48:57.675
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+!SESSION 2018-11-05 16:49:00.613 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data file:/C:/Spring5/eclipse-workspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-05 16:49:06.112
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-05 16:49:06.112
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55ff64fd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20fdaf3e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 16:49:10.682
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2018-11-05 19:13:54.885
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+!SESSION 2018-11-05 19:16:44.823 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-05 19:17:07.226
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-05 19:17:07.226
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2c3d0ff8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cb73a92,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 19:17:25.772
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2018-11-05 19:23:32.355
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+!SESSION 2018-11-05 19:24:20.286 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-05 19:24:25.685
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-05 19:24:25.685
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@e98adb2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2c3d0ff8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-05 19:24:30.205
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-11-05 22:22:20.931
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2018-11-05 22:22:57.433
+!MESSAGE Connection to http://www.pramati.com/downloads/eclipse/updates/p2.index failed on Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient4.ECFHttpClientProtocolSocketFactory.connectSocket(ECFHttpClientProtocolSocketFactory.java:86)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 2 2 2018-11-05 22:43:34.249
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+!SESSION 2018-11-06 19:26:04.319 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-06 19:26:27.189
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-06 19:26:27.189
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45f70f68,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16e3d6d0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-06 19:26:44.068
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 19:54:42.397
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 19:55:17.097
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 19:55:26.171
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 19:55:27.007
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:39.723
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.646
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UhpEYFAZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.647
+!MESSAGE subscribing to classpath changes: sts4.classpath.UhpEYFAZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.648
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.649
+!MESSAGE subsribers = [sts4.classpath.UhpEYFAZ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.649
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.652
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.652
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.653
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.653
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UhpEYFAZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.653
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.662
+!MESSAGE classpath=65 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.663
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ spring-boot-web-jsp false 65
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 19:59:45.749
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:48.612
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:49.288
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:51.803
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:51.820
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:52.982
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:52.983
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:52.990
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:52.991
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ spring-boot-web-jsp false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:53.031
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:53.870
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 20:10:53.884
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:55.489
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:55.490
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:55.504
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:55.505
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ spring-boot-web-jsp false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 20:10:55.561
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2018-11-06 20:16:20.646
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2018-11-06 20:31:04.089
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2018-11-06 20:31:04.090
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "org.eclipse.lsp4j" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "Xbase Runtime Library" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "Cloud Foundry Manifest Language Server Feature" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "Eclipse Language Server Commons" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.090
+!MESSAGE "org.eclipse.lsp4j.jsonrpc" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2018-11-06 20:31:04.139
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2018-11-06 20:31:04.139
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.139
+!MESSAGE "Language Server Protocol client for Eclipse IDE (Incubation)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.139
+!MESSAGE "org.eclipse.lsp4j" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.139
+!MESSAGE "Xbase Runtime Library" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.139
+!MESSAGE "Cloud Foundry Manifest Language Server Feature" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.140
+!MESSAGE "Eclipse Language Server Commons" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2018-11-06 20:31:04.140
+!MESSAGE "org.eclipse.lsp4j.jsonrpc" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2018-11-06 20:54:44.219
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2018-11-06 20:54:44.219
+!MESSAGE session context was:(profile=epp.package.jee, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,com.gradleware.tooling.client,0.19.5.v20181001144510
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,com.gradleware.tooling.model,0.19.5.v20181001144510
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,com.gradleware.tooling.utils,0.19.5.v20181001144510
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.buildship.branding,2.2.2.v20181003-1021
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.buildship.core,2.2.2.v20181003-1021
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.buildship.stsmigration,2.2.2.v20181003-1021
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.buildship.ui,2.2.2.v20181003-1021
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: osgi.bundle,org.gradle.toolingapi,4.10.2.v20181001144510
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2018-11-06 20:54:44.219
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.buildship,2.2.2.v20181003-1021
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:25.461
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:25.476
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:27.291
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:27.306
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:28.144
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:28.145
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:28.150
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:28.150
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:28.191
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:29.167
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:08:29.205
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:30.068
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:30.068
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:30.079
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:30.079
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 21:08:30.167
+!MESSAGE executing callback sts4.classpath.UhpEYFAZ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:09:02.560
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-06 21:09:02.575
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 23:47:03.149
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UhpEYFAZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 23:47:03.150
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.UhpEYFAZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 23:47:03.150
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-06 23:47:03.150
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UhpEYFAZ => OK
+!SESSION 2018-11-07 22:32:51.339 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-07 22:33:04.647
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-07 22:33:04.647
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@795949fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2aeb3f3b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-07 22:33:27.898
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 22:33:30.540
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 22:33:30.935
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:16.643
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:20.913
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zSnyCptl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:20.913
+!MESSAGE subscribing to classpath changes: sts4.classpath.zSnyCptl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:20.915
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:20.917
+!MESSAGE subsribers = [sts4.classpath.zSnyCptl]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:20.917
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.298
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.299
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.302
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zSnyCptl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.303
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.312
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.322
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.323
+!MESSAGE executing callback sts4.classpath.zSnyCptl spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 22:36:21.430
+!MESSAGE executing callback sts4.classpath.zSnyCptl SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2018-11-07 22:39:30.327
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-07 22:44:10.304
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-07 22:44:10.522
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-07 22:51:50.312
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-07 22:54:54.715
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-07 22:58:34.218
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:19:41.102
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zSnyCptl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:19:41.102
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zSnyCptl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:19:41.103
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:19:41.103
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zSnyCptl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.364
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LQCtzbtR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.365
+!MESSAGE subscribing to classpath changes: sts4.classpath.LQCtzbtR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.366
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.366
+!MESSAGE subsribers = [sts4.classpath.LQCtzbtR]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.367
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.399
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.399
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.400
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.400
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LQCtzbtR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.400
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.411
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.412
+!MESSAGE executing callback sts4.classpath.LQCtzbtR spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:24:33.486
+!MESSAGE executing callback sts4.classpath.LQCtzbtR SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2018-11-07 23:30:54.757
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:168)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo(SpringBootJavaHoverProvider.java:35)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:173)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:35:37.082
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LQCtzbtR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:35:37.082
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LQCtzbtR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:35:37.082
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:35:37.083
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LQCtzbtR => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:19.525
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:19.543
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:24.236
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:24.251
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:26.263
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:45:26.334
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:09.932
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:09.947
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:10.294
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:10.305
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:11.604
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:46:11.625
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:23.068
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:23.082
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:23.241
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:23.253
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:24.330
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:48:24.345
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:49:01.940
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:49:01.954
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:49:11.328
+!MESSAGE The POM for org.hibernate:hibernate-validator:jar:5.3.6.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-07 23:49:11.340
+!MESSAGE The POM for org.eclipse.jdt:ecj:jar:3.12.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.277
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wHSsKwyS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.278
+!MESSAGE subscribing to classpath changes: sts4.classpath.wHSsKwyS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.278
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.278
+!MESSAGE subsribers = [sts4.classpath.wHSsKwyS]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.279
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.279
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.280
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.280
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.280
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wHSsKwyS => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.280
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.288
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.289
+!MESSAGE executing callback sts4.classpath.wHSsKwyS spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-07 23:55:21.368
+!MESSAGE executing callback sts4.classpath.wHSsKwyS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:08.995
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.wHSsKwyS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:08.995
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.wHSsKwyS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:08.996
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:08.996
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.wHSsKwyS => OK
+!SESSION 2018-11-08 00:05:18.593 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-08 00:05:24.611
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-08 00:05:24.611
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@281028ce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46ef7340,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:28.767
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:31.887
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OZzrJAlI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:31.909
+!MESSAGE subscribing to classpath changes: sts4.classpath.OZzrJAlI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:31.911
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:31.912
+!MESSAGE subsribers = [sts4.classpath.OZzrJAlI]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:31.913
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:33.492
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:33.495
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:33.495
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OZzrJAlI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:33.503
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:33.506
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-08 00:05:33.579
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:36.273
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:36.274
+!MESSAGE executing callback sts4.classpath.OZzrJAlI spring-boot-web-jsp false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:05:36.427
+!MESSAGE executing callback sts4.classpath.OZzrJAlI SUCCESS [done]
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-11-08 00:07:46.566
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.ui 2 2 2018-11-08 00:08:32.509
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:18.602
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:18.604
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:18.609
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:18.609
+!MESSAGE executing callback sts4.classpath.OZzrJAlI spring-boot-web-jsp false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:18.610
+!MESSAGE executing callback sts4.classpath.OZzrJAlI FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2018-11-08 00:09:18.611
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.OZzrJAlI'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:33.877
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:33.881
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:33.889
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:33.890
+!MESSAGE executing callback sts4.classpath.OZzrJAlI spring-boot-web-jsp false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 00:09:33.890
+!MESSAGE executing callback sts4.classpath.OZzrJAlI FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2018-11-08 00:09:33.891
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.OZzrJAlI'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2018-11-08 19:58:03.397 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-08 19:58:11.339
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-08 19:58:11.339
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75caecf7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62b0792,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-08 19:58:21.735
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HENRY GARCIA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 0 2018-11-08 19:58:28.518
+!MESSAGE While loading class "org.eclipse.m2e.jdt.internal.MavenClasspathContainerInitializer", thread "Thread[Worker-9: Update dynamic Java sources working sets,5,main]" timed out waiting (5017ms) for thread "Thread[Worker-5: Initializing Java Tooling,5,main]" to finish starting bundle "org.eclipse.m2e.jdt_1.9.1.20180912-1601 [589]". To avoid deadlock, thread "Thread[Worker-9: Update dynamic Java sources working sets,5,main]" is proceeding but "org.eclipse.m2e.jdt.internal.MavenClasspathContainerInitializer" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="1.9.1.20180912-1601"; osgi.identity="org.eclipse.m2e.jdt"; singleton:="true" [id=589] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:340)
+	at org.eclipse.osgi.container.Module.start(Module.java:404)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:180)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.core.JavaCore.computeClasspathContainerInitializer(JavaCore.java:3669)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainerInitializer(JavaCore.java:3645)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:3192)
+	at org.eclipse.jdt.internal.core.JavaModelManager$10.run(JavaModelManager.java:3095)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2319)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:3157)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2128)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3622)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3147)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3311)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2388)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:478)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaProject.getPackageFragmentRoots(JavaProject.java:2264)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater.updateElements(DynamicSourcesWorkingSetUpdater.java:201)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater.updateElements(DynamicSourcesWorkingSetUpdater.java:182)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater$1.run(DynamicSourcesWorkingSetUpdater.java:169)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:337)
+	... 39 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:337)
+	at org.eclipse.osgi.container.Module.start(Module.java:404)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:180)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.core.JavaCore.computeClasspathContainerInitializer(JavaCore.java:3669)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainerInitializer(JavaCore.java:3645)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:3192)
+	at org.eclipse.jdt.internal.core.JavaModelManager$10.run(JavaModelManager.java:3095)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2319)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:3157)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2128)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3622)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3147)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3311)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2388)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:478)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaProject.getPackageFragmentRoots(JavaProject.java:2264)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater.updateElements(DynamicSourcesWorkingSetUpdater.java:201)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater.updateElements(DynamicSourcesWorkingSetUpdater.java:182)
+	at org.eclipse.jdt.internal.ui.workingsets.DynamicSourcesWorkingSetUpdater$1.run(DynamicSourcesWorkingSetUpdater.java:169)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:20.896
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:24.739
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zHxnchPj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:24.740
+!MESSAGE subscribing to classpath changes: sts4.classpath.zHxnchPj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:24.741
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:24.742
+!MESSAGE subsribers = [sts4.classpath.zHxnchPj]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:24.743
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.566
+!MESSAGE project spring-boot-web-jsp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.567
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.567
+!MESSAGE Preparing classpath changed notification spring-boot-web-jsp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.568
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zHxnchPj => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.568
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.580
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.581
+!MESSAGE executing callback sts4.classpath.zHxnchPj spring-boot-web-jsp false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-08 20:04:25.841
+!MESSAGE executing callback sts4.classpath.zHxnchPj SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2018-11-08 20:12:30.654
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:168)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo(SpringBootJavaHoverProvider.java:35)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:173)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-08 20:12:57.332
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.ui 2 2 2018-11-08 20:13:13.771
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 4 0 2018-11-08 20:18:22.438
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:168)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo(SpringBootJavaHoverProvider.java:35)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:173)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-11-08 20:19:51.217
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4

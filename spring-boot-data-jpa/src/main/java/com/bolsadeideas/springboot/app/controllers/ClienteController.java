@@ -18,7 +18,6 @@ public class ClienteController {
 	public String listar(Model model) {
 		model.addAttribute("titulo", "Listado de clientes");
 		model.addAttribute("clientes", clienteDao.findAll());
-		//Se retorna el nombre de la vista, en este caso listar
 		return "listar";
 	}
 

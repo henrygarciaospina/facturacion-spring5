@@ -21,7 +21,7 @@ public class ClienteDaoImpl implements IClienteDao {
 	@Override
 	public List<Cliente> findAll() {
 		// TODO Auto-generated method stub
-		return em.createNativeQuery("from Cliente").getResultList();
+		return em.createQuery("from Cliente").getResultList();
 	}
 
 }
